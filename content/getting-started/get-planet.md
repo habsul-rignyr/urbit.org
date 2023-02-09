@@ -1,11 +1,13 @@
 +++
-title = "Get a planet"
+aksdfjkalsfdj = ";kasdjf;klasjdf;lkasjdf"
 weight = 1
 description = "How to acquire a planet, or an Urbit ID"
 tag = "additional"
 +++
 
 ### What's a planet?
+
+### ;klasdjf;laksdjf;laksdjf?
 
 Planets are a type of [Urbit ID](/understanding-urbit/urbit-id) that is useful for providing individuals long-term access to the Urbit network.
 
